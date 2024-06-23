@@ -1,4 +1,4 @@
-# Coffee Sales Analysis mm
+# Coffee Sales Analysis
 The Coffee Sales Dashboard provides a comprehensive view of coffee sales data, including trends over time, sales by country, and performance of top customers. This analysis helps to identify key market segments, peak sales periods, and the most valuable customers.
 
 # Insights and Trends
