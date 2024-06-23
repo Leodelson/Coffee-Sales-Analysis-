@@ -1,6 +1,6 @@
-# Coffee-Sales-Dashboard
+# Coffee-Sales-Analysis 
 
-# Poject Title: Coffee-Sales-Dashboard
+# Poject Title: Coffee-Sales-Analysis 
 
 In this project, I performed a comprehensive analysis of Coffee Sales data using Microsoft Excel. The main objectives were to clean and transform the data, derive meaningful insights, and create an interactive dashboard to visualize the results.
 
