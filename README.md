@@ -30,6 +30,8 @@ By using filters such as roast level, size, and loyalty card, the dashboard allo
 # Conclusion 
 Overall, this dashboard serves as a powerful tool for business decision-makers to analyze coffee sales performance, identify trends, and make informed decisions to drive growth and customer satisfaction.
 
+# Tools Used
+Microsoft Excel
 
 
 
