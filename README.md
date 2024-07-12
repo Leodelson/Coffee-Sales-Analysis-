@@ -1,8 +1,9 @@
 # Coffee Sales Analysis
 The Coffee Sales Dashboard provides a comprehensive view of coffee sales data, including trends over time, sales by country, and performance of top customers. This analysis helps to identify key market segments, peak sales periods, and the most valuable customers.
+## Dashboard Visualization
+![coffee](https://github.com/user-attachments/assets/b14aab25-f434-44f0-b0d1-f6f4492dda9c)
 
 # Insights and Trends
-
 ## Total Sales Over Time
 Peaks in sales can be observed, indicating higher demand during certain months.
 Different coffee types show varying trends, useful for understanding seasonal preferences.
@@ -32,16 +33,3 @@ Overall, this dashboard serves as a powerful tool for business decision-makers t
 
 # Tools Used
 Microsoft Excel
-
-
-
-
-
-
-
-
-
-
-
-
-
